@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1490864502 source:f:\universidad tecnologica nacional\laboratorio 1 y programacion 1\tp1\tp_1_cascara\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<funcion.h>
+
+1457070376 f:\universidad tecnologica nacional\laboratorio 1 y programacion 1\tp1\tp_1_cascara\tp_1_cascara\funciones.h
+
+1491539936 source:f:\universidad tecnologica nacional\laboratorio 1 y programacion 1\tp1\tp_1_cascara\funcion.c
+
+1491540554 source:f:\universidad tecnologica nacional\laboratorio 1 y programacion 1\tp1\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcion.h"
+
+1491540390 f:\universidad tecnologica nacional\laboratorio 1 y programacion 1\tp1\tp_1_cascara\funcion.h
+
+1490946262 source:e:\universidad tecnologica nacional\laboratorio 1 y programacion 1\tp1\tp_1_cascara\funcion.c
+
+1491053774 source:e:\universidad tecnologica nacional\laboratorio 1 y programacion 1\tp1\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcion.h"
+
+1491053998 e:\universidad tecnologica nacional\laboratorio 1 y programacion 1\tp1\tp_1_cascara\funcion.h
+
+1491578776 source:c:\users\gabriela\desktop\tp1\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcion.h"
+
+1491578712 c:\users\gabriela\desktop\tp1\tp_1_cascara\funcion.h
+
+1491578919 source:c:\users\gabriela\desktop\tp1\tp_1_cascara\funcion.c
+	"funcion.h"
+
+1491578920 source:f:\universidad tecnologica nacional\laboratorio 1 y programacion 1\tp1\tp_1_laboratorio\funcion.c
+	"funcion.h"
+
+1491578714 f:\universidad tecnologica nacional\laboratorio 1 y programacion 1\tp1\tp_1_laboratorio\funcion.h
+
+1491579882 source:f:\universidad tecnologica nacional\laboratorio 1 y programacion 1\tp1\tp_1_laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcion.h"
+
